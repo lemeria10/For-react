@@ -1,6 +1,6 @@
 function Title () {
     return (
-        <div>
+        <div className="text-center font-bold text-6xl opacity-70">
             <h1>Diogo Jota</h1>
         </div>
 

@@ -3,7 +3,7 @@ import Facts from "./facts";
 
 function InfoSection () {
     return (
-        <div>
+        <div className=" p-4">
             <History/>
             <Facts/>
         </div>

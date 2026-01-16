@@ -1,7 +1,6 @@
 function History() {
   return (
-    <div>
-        <h4>Brief history of Diogo Jota:</h4>
+    <div className=" text-2xl font-light">
       <p>
         Diogo Jota was born in Portugal in 1996 and began his football career
         with Paços de Ferreira, where his talent quickly stood out. He later
