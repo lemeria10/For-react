@@ -1,5 +1,5 @@
 This is a simple Tribute Page built using React.
-The project displays information about a Diogo Jota, including a short history, an image, and key facts presented in an unordered list.
+The project displays information about Diogo Jota, including a short history, an image, and key facts presented in an unordered list.
 
 Features:
 
