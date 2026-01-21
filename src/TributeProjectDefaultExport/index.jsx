@@ -3,7 +3,7 @@ import Header from "./Header/Header";
 import MainSection from "./MainSection/mainsection";
 function App() {
   return (
-    <div className=" p-4 w-screen h-screen bg-gray-200 ">
+    <div className=" p-4 w-screen h-screen bg-gray-200 overflow-y-auto">
       <Header />
       <MainSection />
     </div>
